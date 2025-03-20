@@ -1,0 +1,587 @@
+[
+  {
+    "type": "Feature",
+    "id": 0,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -103.3940216261218,
+        32.853036654581899
+      ]
+    },
+    "properties": {
+      "FID": 0,
+      "id": "30-025-30961",
+      "name": "WEST LOVINGTON UNIT #069",
+      "type": "Oil",
+      "status": "Plugged (site released)",
+      "sub_type_c": " ",
+      "ogrid": 241333,
+      "ogrid_name": "CHEVRON MIDCONTINENT, L.P.",
+      "district_c": 1,
+      "district": "Hobbs",
+      "county_cod": 25,
+      "county": "Lea",
+      "ulstr": "C-07-17S-36E",
+      "latitude": 32.853031199999997,
+      "longitude": -103.3940125,
+      "directiona": "V",
+      "details": "https://wwwapps.emnrd.nm.gov/ocd/ocdpermitting/Data/WellDetails.aspx?api=30-025-30961&GISReferenceSource=ArcGISOnline",
+      "files": "http://ocdimage.emnrd.nm.gov/imaging/WellFileView.aspx?RefType=WF&RefID=30025309610000&GISReferenceSource=ArcGISOnline",
+      "year_spudd": "9999",
+      "lease_type": "State",
+      "measured_v": 5240,
+      "true_verti": 5240,
+      "pool_id_li": "[40990] LOVINGTON, UPPER SAN ANDRES, WEST",
+      "last_produ": 999302400000,
+      "plug_date": 1476403200000,
+      "GlobalID": "{3d0a88a8-67fe-4f04-acc8-6ef5b76e43b5}"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 1,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -103.39396052637861,
+        32.856252355595622
+      ]
+    },
+    "properties": {
+      "FID": 1,
+      "id": "30-025-30959",
+      "name": "WEST LOVINGTON UNIT #067",
+      "type": "Oil",
+      "status": "Plugged (site released)",
+      "sub_type_c": " ",
+      "ogrid": 241333,
+      "ogrid_name": "CHEVRON MIDCONTINENT, L.P.",
+      "district_c": 1,
+      "district": "Hobbs",
+      "county_cod": 25,
+      "county": "Lea",
+      "ulstr": "C-07-17S-36E",
+      "latitude": 32.856246900000002,
+      "longitude": -103.39395140000001,
+      "directiona": "V",
+      "details": "https://wwwapps.emnrd.nm.gov/ocd/ocdpermitting/Data/WellDetails.aspx?api=30-025-30959&GISReferenceSource=ArcGISOnline",
+      "files": "http://ocdimage.emnrd.nm.gov/imaging/WellFileView.aspx?RefType=WF&RefID=30025309590000&GISReferenceSource=ArcGISOnline",
+      "year_spudd": "9999",
+      "lease_type": "State",
+      "measured_v": 5240,
+      "true_verti": 5240,
+      "pool_id_li": "[40990] LOVINGTON, UPPER SAN ANDRES, WEST",
+      "last_produ": 1651363200000,
+      "plug_date": 1657584000000,
+      "GlobalID": "{2d83385a-c673-4439-8e2b-f8bd99b64993}"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 2,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -103.90220042584505,
+        32.585256285802139
+      ]
+    },
+    "properties": {
+      "FID": 2,
+      "id": "30-015-20092",
+      "name": "BIG EDDY UNIT #011",
+      "type": "Oil",
+      "status": "Plugged (site released)",
+      "sub_type_c": " ",
+      "ogrid": 4323,
+      "ogrid_name": "CHEVRON U S A INC",
+      "district_c": 2,
+      "district": "Artesia",
+      "county_cod": 15,
+      "county": "Eddy",
+      "ulstr": "I-07-20S-31E",
+      "latitude": 32.585250899999998,
+      "longitude": -103.9021912,
+      "directiona": "V",
+      "details": "https://wwwapps.emnrd.nm.gov/ocd/ocdpermitting/Data/WellDetails.aspx?api=30-015-20092&GISReferenceSource=ArcGISOnline",
+      "files": "http://ocdimage.emnrd.nm.gov/imaging/WellFileView.aspx?RefType=WF&RefID=30015200920000&GISReferenceSource=ArcGISOnline",
+      "year_spudd": "9999",
+      "lease_type": "Federal",
+      "measured_v": 11890,
+      "true_verti": 11890,
+      "pool_id_li": "[5610] BIG EDDY, DELAWARE",
+      "last_produ": 1377993600000,
+      "plug_date": 1398816000000,
+      "GlobalID": "{062bae29-bde4-47c3-8648-9b44c45bca72}"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 5,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.25619667932136,
+        32.164563698920155
+      ]
+    },
+    "properties": {
+      "FID": 5,
+      "id": "30-015-28602",
+      "name": "MURCHISON 2 STATE #004",
+      "type": "Oil",
+      "status": "Plugged (site released)",
+      "sub_type_c": " ",
+      "ogrid": 4323,
+      "ogrid_name": "CHEVRON U S A INC",
+      "district_c": 2,
+      "district": "Artesia",
+      "county_cod": 15,
+      "county": "Eddy",
+      "ulstr": "A-02-25S-26E",
+      "latitude": 32.164558399999997,
+      "longitude": -104.2561874,
+      "directiona": "V",
+      "details": "https://wwwapps.emnrd.nm.gov/ocd/ocdpermitting/Data/WellDetails.aspx?api=30-015-28602&GISReferenceSource=ArcGISOnline",
+      "files": "http://ocdimage.emnrd.nm.gov/imaging/WellFileView.aspx?RefType=WF&RefID=30015286020000&GISReferenceSource=ArcGISOnline",
+      "year_spudd": "1995",
+      "lease_type": "State",
+      "measured_v": 5550,
+      "true_verti": 5550,
+      "pool_id_li": "[96451] BLACK RIVER,  DELAWARE, SOUTH",
+      "last_produ": 253402214400000,
+      "plug_date": 933811200000,
+      "GlobalID": "{7f4c3469-b9c1-4b3f-bcb8-6008bba8f401}"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 6,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -103.39340363003181,
+        32.907895764125982
+      ]
+    },
+    "properties": {
+      "FID": 6,
+      "id": "30-025-34250",
+      "name": "MAC 19 #001",
+      "type": "Oil",
+      "status": "Plugged (site released)",
+      "sub_type_c": " ",
+      "ogrid": 4323,
+      "ogrid_name": "CHEVRON U S A INC",
+      "district_c": 1,
+      "district": "Hobbs",
+      "county_cod": 25,
+      "county": "Lea",
+      "ulstr": "G-19-16S-36E",
+      "latitude": 32.907890299999998,
+      "longitude": -103.3933945,
+      "directiona": "V",
+      "details": "https://wwwapps.emnrd.nm.gov/ocd/ocdpermitting/Data/WellDetails.aspx?api=30-025-34250&GISReferenceSource=ArcGISOnline",
+      "files": "http://ocdimage.emnrd.nm.gov/imaging/WellFileView.aspx?RefType=WF&RefID=30025342500000&GISReferenceSource=ArcGISOnline",
+      "year_spudd": "1997",
+      "lease_type": "Private",
+      "measured_v": 11674,
+      "true_verti": 11674,
+      "pool_id_li": "[40750] LOVINGTON, UPPER PENN, WEST",
+      "last_produ": 1362096000000,
+      "plug_date": 1397692800000,
+      "GlobalID": "{3213af0c-16ef-4eb7-a9b5-8adf87fc05b0}"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 7,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -103.53006135023846,
+        32.745652829903911
+      ]
+    },
+    "properties": {
+      "FID": 7,
+      "id": "30-025-29789",
+      "name": "NEW MEXICO Z STATE NCT-5 #001",
+      "type": "Oil",
+      "status": "Plugged (site released)",
+      "sub_type_c": " ",
+      "ogrid": 4323,
+      "ogrid_name": "CHEVRON U S A INC",
+      "district_c": 1,
+      "district": "Hobbs",
+      "county_cod": 25,
+      "county": "Lea",
+      "ulstr": "J-14-18S-34E",
+      "latitude": 32.745647400000003,
+      "longitude": -103.5300522,
+      "directiona": "V",
+      "details": "https://wwwapps.emnrd.nm.gov/ocd/ocdpermitting/Data/WellDetails.aspx?api=30-025-29789&GISReferenceSource=ArcGISOnline",
+      "files": "http://ocdimage.emnrd.nm.gov/imaging/WellFileView.aspx?RefType=WF&RefID=30025297890000&GISReferenceSource=ArcGISOnline",
+      "year_spudd": "1986",
+      "lease_type": "State",
+      "measured_v": 10155,
+      "true_verti": 10155,
+      "pool_id_li": "[962] AIRSTRIP, BONE SPRING, NORTH",
+      "last_produ": 723168000000,
+      "plug_date": 1496448000000,
+      "GlobalID": "{29ba7f4e-541f-4ba0-a414-70bec8d7d05b}"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 8,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -103.15625391276151,
+        32.410016310602074
+      ]
+    },
+    "properties": {
+      "FID": 8,
+      "id": "30-025-38976",
+      "name": "BRUNSON ARGO #028",
+      "type": "Oil",
+      "status": "Cancelled",
+      "sub_type_c": " ",
+      "ogrid": 241333,
+      "ogrid_name": "CHEVRON MIDCONTINENT, L.P.",
+      "district_c": 1,
+      "district": "Hobbs",
+      "county_cod": 25,
+      "county": "Lea",
+      "ulstr": "D-10-22S-37E",
+      "latitude": 32.410010919999998,
+      "longitude": -103.15624486999999,
+      "directiona": " ",
+      "details": "https://wwwapps.emnrd.nm.gov/ocd/ocdpermitting/Data/WellDetails.aspx?api=30-025-38976&GISReferenceSource=ArcGISOnline",
+      "files": "http://ocdimage.emnrd.nm.gov/imaging/WellFileView.aspx?RefType=WF&RefID=30025389760000&GISReferenceSource=ArcGISOnline",
+      "year_spudd": "9999",
+      "lease_type": "Private",
+      "measured_v": 0,
+      "true_verti": 0,
+      "pool_id_li": "[50350] PENROSE SKELLY, GRAYBURG",
+      "last_produ": 253402214400000,
+      "plug_date": 253402214400000,
+      "GlobalID": "{75e517d8-8b12-49f7-8eb6-94dff6063efc}"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 9,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -103.15622094760624,
+        32.484327003141047
+      ]
+    },
+    "properties": {
+      "FID": 9,
+      "id": "30-025-06612",
+      "name": "STATE S #005",
+      "type": "Oil",
+      "status": "Plugged (site released)",
+      "sub_type_c": " ",
+      "ogrid": 4323,
+      "ogrid_name": "CHEVRON U S A INC",
+      "district_c": 1,
+      "district": "Hobbs",
+      "county_cod": 25,
+      "county": "Lea",
+      "ulstr": "D-15-21S-37E",
+      "latitude": 32.484321600000001,
+      "longitude": -103.1562119,
+      "directiona": "V",
+      "details": "https://wwwapps.emnrd.nm.gov/ocd/ocdpermitting/Data/WellDetails.aspx?api=30-025-06612&GISReferenceSource=ArcGISOnline",
+      "files": "http://ocdimage.emnrd.nm.gov/imaging/WellFileView.aspx?RefType=WF&RefID=30025066120000&GISReferenceSource=ArcGISOnline",
+      "year_spudd": "1951",
+      "lease_type": "State",
+      "measured_v": 8148,
+      "true_verti": 8148,
+      "pool_id_li": "[19190] DRINKARD; [50350] PENROSE SKELLY, GRAYBURG",
+      "last_produ": 1488326400000,
+      "plug_date": 1494201600000,
+      "GlobalID": "{3081c5bd-0e74-424c-a3d7-0ed065b1842a}"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 18,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.02155462880044,
+        32.205030016734604
+      ]
+    },
+    "properties": {
+      "FID": 18,
+      "id": "30-015-24292",
+      "name": "QUEEN LAKE 19 FEDERAL #001",
+      "type": "Oil",
+      "status": "Plugged (site released)",
+      "sub_type_c": " ",
+      "ogrid": 4323,
+      "ogrid_name": "CHEVRON U S A INC",
+      "district_c": 2,
+      "district": "Artesia",
+      "county_cod": 15,
+      "county": "Eddy",
+      "ulstr": "G-19-24S-29E",
+      "latitude": 32.205024700000003,
+      "longitude": -104.02154539999999,
+      "directiona": "V",
+      "details": "https://wwwapps.emnrd.nm.gov/ocd/ocdpermitting/Data/WellDetails.aspx?api=30-015-24292&GISReferenceSource=ArcGISOnline",
+      "files": "http://ocdimage.emnrd.nm.gov/imaging/WellFileView.aspx?RefType=WF&RefID=30015242920000&GISReferenceSource=ArcGISOnline",
+      "year_spudd": "9999",
+      "lease_type": "Federal",
+      "measured_v": 13500,
+      "true_verti": 13500,
+      "pool_id_li": "[42940] MALAGA, DELAWARE; [50371] PIERCE CROSSING, BONE SPRING",
+      "last_produ": 1180656000000,
+      "plug_date": 1386720000000,
+      "GlobalID": "{fd87ad24-adb4-48db-a3e1-6a4c07856f81}"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 19,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -103.5290771525584,
+        32.775045135571261
+      ]
+    },
+    "properties": {
+      "FID": 19,
+      "id": "30-025-02272",
+      "name": "VACUUM GRAYBURG SAN ANDRES UNIT #023",
+      "type": "Oil",
+      "status": "Plugged (site released)",
+      "sub_type_c": " ",
+      "ogrid": 4323,
+      "ogrid_name": "CHEVRON U S A INC",
+      "district_c": 1,
+      "district": "Hobbs",
+      "county_cod": 25,
+      "county": "Lea",
+      "ulstr": "J-02-18S-34E",
+      "latitude": 32.775039700000001,
+      "longitude": -103.529068,
+      "directiona": "H",
+      "details": "https://wwwapps.emnrd.nm.gov/ocd/ocdpermitting/Data/WellDetails.aspx?api=30-025-02272&GISReferenceSource=ArcGISOnline",
+      "files": "http://ocdimage.emnrd.nm.gov/imaging/WellFileView.aspx?RefType=WF&RefID=30025022720000&GISReferenceSource=ArcGISOnline",
+      "year_spudd": "1940",
+      "lease_type": "State",
+      "measured_v": 6928,
+      "true_verti": 4783,
+      "pool_id_li": "[62180] VACUUM, GRAYBURG-SAN ANDRES",
+      "last_produ": 1404172800000,
+      "plug_date": 1586217600000,
+      "GlobalID": "{666ea030-53b0-4704-b5f8-d52543c2f7dc}"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 20,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.0200898259012,
+        32.171247110812686
+      ]
+    },
+    "properties": {
+      "FID": 20,
+      "id": "30-015-36022",
+      "name": "DIAMOND 31 FEDERAL #002H",
+      "type": "Oil",
+      "status": "Active",
+      "sub_type_c": " ",
+      "ogrid": 4323,
+      "ogrid_name": "CHEVRON U S A INC",
+      "district_c": 2,
+      "district": "Artesia",
+      "county_cod": 15,
+      "county": "Eddy",
+      "ulstr": "J-31-24S-29E",
+      "latitude": 32.171241799999997,
+      "longitude": -104.0200806,
+      "directiona": " ",
+      "details": "https://wwwapps.emnrd.nm.gov/ocd/ocdpermitting/Data/WellDetails.aspx?api=30-015-36022&GISReferenceSource=ArcGISOnline",
+      "files": "http://ocdimage.emnrd.nm.gov/imaging/WellFileView.aspx?RefType=WF&RefID=30015360220000&GISReferenceSource=ArcGISOnline",
+      "year_spudd": "2008",
+      "lease_type": "Federal",
+      "measured_v": 6991,
+      "true_verti": 6946,
+      "pool_id_li": "[33735] INDIAN FLATS, DELAWARE; [64453] WILLOW LAKE, DELAWARE",
+      "last_produ": 1725148800000,
+      "plug_date": 253402214400000,
+      "GlobalID": "{bb90254c-4b19-4148-9ccb-4a842ddf0f64}"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 21,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -103.15613693602047,
+        32.292592670074988
+      ]
+    },
+    "properties": {
+      "FID": 21,
+      "id": "30-025-10827",
+      "name": "LA MUNYON FEDERAL #003",
+      "type": "Oil",
+      "status": "Plugged (site released)",
+      "sub_type_c": " ",
+      "ogrid": 4323,
+      "ogrid_name": "CHEVRON U S A INC",
+      "district_c": 1,
+      "district": "Hobbs",
+      "county_cod": 25,
+      "county": "Lea",
+      "ulstr": "E-22-23S-37E",
+      "latitude": 32.292587300000001,
+      "longitude": -103.1561279,
+      "directiona": "V",
+      "details": "https://wwwapps.emnrd.nm.gov/ocd/ocdpermitting/Data/WellDetails.aspx?api=30-025-10827&GISReferenceSource=ArcGISOnline",
+      "files": "http://ocdimage.emnrd.nm.gov/imaging/WellFileView.aspx?RefType=WF&RefID=30025108270000&GISReferenceSource=ArcGISOnline",
+      "year_spudd": "9999",
+      "lease_type": "Federal",
+      "measured_v": 3598,
+      "true_verti": 3598,
+      "pool_id_li": "[37240] LANGLIE MATTIX, 7 RVRS-Q-GRAYBURG",
+      "last_produ": 723168000000,
+      "plug_date": 717638400000,
+      "GlobalID": "{8e094f5b-e66f-4347-9ab3-4cafafe7d405}"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 22,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -103.15613693618934,
+        32.29622047032467
+      ]
+    },
+    "properties": {
+      "FID": 22,
+      "id": "30-025-10838",
+      "name": "LA MUNYON FEDERAL #002",
+      "type": "Oil",
+      "status": "Plugged (site released)",
+      "sub_type_c": " ",
+      "ogrid": 4323,
+      "ogrid_name": "CHEVRON U S A INC",
+      "district_c": 1,
+      "district": "Hobbs",
+      "county_cod": 25,
+      "county": "Lea",
+      "ulstr": "D-22-23S-37E",
+      "latitude": 32.296215099999998,
+      "longitude": -103.1561279,
+      "directiona": "V",
+      "details": "https://wwwapps.emnrd.nm.gov/ocd/ocdpermitting/Data/WellDetails.aspx?api=30-025-10838&GISReferenceSource=ArcGISOnline",
+      "files": "http://ocdimage.emnrd.nm.gov/imaging/WellFileView.aspx?RefType=WF&RefID=30025108380000&GISReferenceSource=ArcGISOnline",
+      "year_spudd": "9999",
+      "lease_type": "Federal",
+      "measured_v": 3647,
+      "true_verti": 3647,
+      "pool_id_li": "[37240] LANGLIE MATTIX, 7 RVRS-Q-GRAYBURG",
+      "last_produ": 126230400000,
+      "plug_date": 717206400000,
+      "GlobalID": "{36c64235-ba49-4d0d-b8f0-0f56d73f6cc2}"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 23,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -103.52817682099359,
+        32.282502752014217
+      ]
+    },
+    "properties": {
+      "FID": 23,
+      "id": "30-025-41627",
+      "name": "BRININSTOOL 25 23 33 USA #002H",
+      "type": "Oil",
+      "status": "Active",
+      "sub_type_c": " ",
+      "ogrid": 4323,
+      "ogrid_name": "CHEVRON U S A INC",
+      "district_c": 1,
+      "district": "Hobbs",
+      "county_cod": 25,
+      "county": "Lea",
+      "ulstr": "C-25-23S-33E",
+      "latitude": 32.282497399999997,
+      "longitude": -103.5281677,
+      "directiona": "H",
+      "details": "https://wwwapps.emnrd.nm.gov/ocd/ocdpermitting/Data/WellDetails.aspx?api=30-025-41627&GISReferenceSource=ArcGISOnline",
+      "files": "http://ocdimage.emnrd.nm.gov/imaging/WellFileView.aspx?RefType=WF&RefID=30025416270000&GISReferenceSource=ArcGISOnline",
+      "year_spudd": "2014",
+      "lease_type": "Federal",
+      "measured_v": 15630,
+      "true_verti": 10961,
+      "pool_id_li": "[59900] TRIPLE X, BONE SPRING",
+      "last_produ": 1725148800000,
+      "plug_date": 253402214400000,
+      "GlobalID": "{4e959c1b-b693-4a1f-8133-ec07460824e8}"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 24,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -103.52893214610536,
+        32.68050161970352
+      ]
+    },
+    "properties": {
+      "FID": 24,
+      "id": "30-025-25887",
+      "name": "QUAIL QUEEN UNIT #009",
+      "type": "Oil",
+      "status": "Plugged (site released)",
+      "sub_type_c": " ",
+      "ogrid": 4323,
+      "ogrid_name": "CHEVRON U S A INC",
+      "district_c": 1,
+      "district": "Hobbs",
+      "county_cod": 25,
+      "county": "Lea",
+      "ulstr": "B-11-19S-34E",
+      "latitude": 32.6804962,
+      "longitude": -103.52892300000001,
+      "directiona": "V",
+      "details": "https://wwwapps.emnrd.nm.gov/ocd/ocdpermitting/Data/WellDetails.aspx?api=30-025-25887&GISReferenceSource=ArcGISOnline",
+      "files": "http://ocdimage.emnrd.nm.gov/imaging/WellFileView.aspx?RefType=WF&RefID=30025258870000&GISReferenceSource=ArcGISOnline",
+      "year_spudd": "1978",
+      "lease_type": "State",
+      "measured_v": 5380,
+      "true_verti": 5380,
+      "pool_id_li": "[50450] QUAIL, QUEEN",
+      "last_produ": 1525132800000,
+      "plug_date": 1537315200000,
+      "GlobalID": "{9279fae8-8ed5-4deb-8eaf-8227f8ef7ad4}"
+    }
+  }
+]

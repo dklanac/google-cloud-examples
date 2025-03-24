@@ -1,0 +1,125 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  color: #333;
+  background-color: #f4f4f4;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 20px;
+  align-items: center;
+}
+
+button {
+  padding: 10px 15px;
+  background-color: #4285f4;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+button:hover {
+  background-color: #3367d6;
+}
+
+#draw-polygon {
+  background-color: #ea4335;
+}
+
+#draw-polygon:hover {
+  background-color: #c62828;
+}
+
+#clear-polygon {
+  background-color: #fbbc05;
+  color: #333;
+}
+
+#clear-polygon:hover {
+  background-color: #f9a825;
+}
+
+#use-default-polygon {
+  background-color: #34a853;
+}
+
+#use-default-polygon:hover {
+  background-color: #2e7d32;
+}
+
+.status {
+  margin-left: auto;
+  font-weight: bold;
+}
+
+#map {
+  height: 500px;
+  width: 100%;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.info-panel {
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.info-panel h2 {
+  margin-bottom: 15px;
+  color: #4285f4;
+}
+
+.info-panel h3 {
+  margin: 15px 0 10px;
+  color: #4285f4;
+}
+
+#route-details {
+  margin-bottom: 20px;
+}
+
+#wells-status-list {
+  list-style-type: none;
+}
+
+#wells-status-list li {
+  padding: 8px 0;
+  border-bottom: 1px solid #eee;
+}
+
+#wells-status-list li:last-child {
+  border-bottom: none;
+}
+
+.online {
+  color: #34a853;
+}
+
+.offline {
+  color: #ea4335;
+}

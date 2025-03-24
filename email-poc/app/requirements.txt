@@ -1,0 +1,6 @@
+google-cloud-aiplatform
+google-cloud-bigquery
+google-cloud-discoveryengine
+nicegui
+pymupdf
+anthropic[vertex]

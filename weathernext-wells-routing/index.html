@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Delaware Basin Well Route Optimizer</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <div class="container">
+    <header>
+      <h1>Delaware Basin Well Route Optimizer</h1>
+    </header>
+
+    <div class="controls">
+      <!-- <button id="calculate-route">Calculate Optimal Route</button> -->
+      <button id="draw-polygon">Draw Weather Event Area</button>
+      <button id="clear-polygon">Clear Weather Event</button>
+      <button id="use-default-polygon">February 2021 Arctic Blast</button>
+      <div class="status">
+        <p>Wells Online: <span id="wells-online">5</span> | Wells Offline: <span id="wells-offline">0</span></p>
+      </div>
+    </div>
+
+    <div id="map"></div>
+
+    <div class="info-panel">
+      <h2>Route Information</h2>
+      <div id="route-details">
+        <p>Total Distance: <span id="total-distance">0</span> miles</p>
+        <!-- <p>Estimated Time: <span id="estimated-time">0</span> minutes</p> -->
+      </div>
+      <div id="wells-list">
+        <h3>Online Status</h3>
+        <ul id="wells-status-list"></ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Load app.js first to initialize Config with API key -->
+  <script type="module" src="app.js"></script>
+
+  <!-- This script will be dynamically inserted by app.js after loading the API key -->
+  <div id="maps-script-container"></div>
+
+</body>
+
+</html>

@@ -1,0 +1,56 @@
+[
+    {
+        "name": "attachments",
+        "type": "STRING",
+        "mode": "REPEATED",
+        "description": "List of attachment file names"
+    },
+    {
+        "name": "cc",
+        "type": "STRING",
+        "mode": "NULLABLE",
+        "description": "List of CC email addresses"
+    },
+    {
+        "name": "date",
+        "type": "STRING",
+        "mode": "NULLABLE",
+        "description": "Date and time when the email was sent"
+    },
+    {
+        "name": "from",
+        "type": "STRING",
+        "mode": "NULLABLE",
+        "description": "Sender of the email"
+    },
+    {
+        "name": "html",
+        "type": "STRING",
+        "mode": "NULLABLE",
+        "description": "HTML content of the email"
+    },
+    {
+        "name": "subject",
+        "type": "STRING",
+        "mode": "NULLABLE",
+        "description": "Subject of the email"
+    },
+    {
+        "name": "text",
+        "type": "STRING",
+        "mode": "NULLABLE",
+        "description": "Plain text content of the email"
+    },
+    {
+        "name": "to",
+        "type": "STRING",
+        "mode": "NULLABLE",
+        "description": "List of recipient email addresses"
+    },
+    {
+        "name": "x_headers",
+        "type": "STRING",
+        "mode": "NULLABLE",
+        "description": "JSON object containing additional headers for the email, stored as a string"
+    }
+]
